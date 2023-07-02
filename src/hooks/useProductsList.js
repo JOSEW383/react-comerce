@@ -1,5 +1,5 @@
 import { useState, useEffect, useContext } from "react";
-import { getProductsList as getList } from "../services/Products";
+import { getProductsList as getList } from "../services/products";
 import {FiltersContext} from "../context/filters";
 
 
