@@ -43,4 +43,5 @@ This app was tested using [playwright](https://playwright.dev/), to run the test
 - [Bootstrap](https://getbootstrap.com/)
 - [Vite](https://vitejs.dev/)
 - [Playwright](https://playwright.dev/)
+- [Github Actions](https://docs.github.com/en/actions)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
