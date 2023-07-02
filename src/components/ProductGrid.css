@@ -1,0 +1,22 @@
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 30px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.no-results {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.fact-error {
+  color: red;
+  font-size: 0.8em;
+  text-align: center;
+}
+
+.fact-error h3 {
+  color: red;
+}

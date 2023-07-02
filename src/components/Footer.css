@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+footer {
+  margin-top: auto;
+  height: 3rem;
+  background-color: #342f2f;
+}
+
+footer p {
+  color: #ccc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer--pin {
+  position: relative;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
