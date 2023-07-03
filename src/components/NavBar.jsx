@@ -1,6 +1,7 @@
 import "./NavBar.css";
 import { CartContext } from "../context/cart";
 import { useContext } from "react";
+import cartImg from "/src/assets/cart.svg";
 
 function NavBar(props) {
   const { setIsVisible } = useContext(CartContext);
@@ -21,7 +22,7 @@ function NavBar(props) {
             className="btn btn-outline-warning cart-icon"
             onClick={openCart}
           >
-            <img src={"/src/assets/cart.svg"} />
+            <img src={cartImg} />
           </button>
         </div>
       </div>
