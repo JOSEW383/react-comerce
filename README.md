@@ -1,5 +1,5 @@
-[![Playwright Tests](https://github.com/JOSEW383/react-comerce/actions/workflows/playwright.yml/badge.svg)](https://github.com/JOSEW383/react-comerce/actions/workflows/playwright.yml)
 # 🎥 React Comerce App
+[![Playwright Tests](https://github.com/JOSEW383/react-comerce/actions/workflows/playwright.yml/badge.svg)](https://github.com/JOSEW383/react-comerce/actions/workflows/playwright.yml)
 
 This React application allows users to buy mock products from a catalog.
 
